@@ -10,6 +10,7 @@ If you are just starting this volume, the code will create a new Excel sheet and
 If you turn of the gradient buttom it will display the gradient of the slice you are looking at. If you turn off, it will display the original image
 <img width="1004" height="796" alt="Screenshot 2026-07-21 at 2 02 44 PM" src="https://github.com/user-attachments/assets/a6565f42-5d31-467a-91dd-5146a75a9027" />
 <img width="1007" height="720" alt="Screenshot 2026-07-21 at 2 04 03 PM" src="https://github.com/user-attachments/assets/3f7edcb3-4852-42dd-bb4d-c59c4347a40e" />
+The slider allows user to change the colormap of the slice
 <img width="1006" height="721" alt="Screenshot 2026-07-21 at 2 03 09 PM" src="https://github.com/user-attachments/assets/67bbb8c6-03f1-4d0b-b2d3-32796a86b582" />
 <img width="1002" height="718" alt="Screenshot 2026-07-21 at 2 03 48 PM" src="https://github.com/user-attachments/assets/76c45f24-80d8-40a9-9b10-1fb3179691c8" />
 <img width="1004" height="720" alt="Screenshot 2026-07-21 at 2 03 24 PM" src="https://github.com/user-attachments/assets/1bca00be-1b10-42a2-a997-00c7e5ed127d" />
