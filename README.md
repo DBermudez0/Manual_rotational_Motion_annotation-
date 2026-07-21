@@ -1,8 +1,10 @@
 # Manual_rotational_Motion_annotation-
 GUI interface for annotationing rotational head motion in MRI volume
-
+ Open script and run the script in Matlab
 <img width="1390" height="675" alt="Screenshot 2026-07-21 at 2 02 01 PM" src="https://github.com/user-attachments/assets/7574b356-35fc-4ed7-a9fc-959f02245076" />
+After click run script will ask you to find and load the corresponding nii file (nii files all slices needs to be in the transverse direction)
 <img width="1392" height="446" alt="Screenshot 2026-07-21 at 2 02 12 PM" src="https://github.com/user-attachments/assets/44997038-2311-4fcc-ad7e-fae15050d533" />
+
 <img width="1003" height="797" alt="Screenshot 2026-07-21 at 2 02 29 PM" src="https://github.com/user-attachments/assets/0a2e2e6f-abb2-483f-a66f-cd8bc25fa82e" />
 <img width="1004" height="796" alt="Screenshot 2026-07-21 at 2 02 44 PM" src="https://github.com/user-attachments/assets/a6565f42-5d31-467a-91dd-5146a75a9027" />
 <img width="1007" height="720" alt="Screenshot 2026-07-21 at 2 04 03 PM" src="https://github.com/user-attachments/assets/3f7edcb3-4852-42dd-bb4d-c59c4347a40e" />
